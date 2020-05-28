@@ -1,6 +1,5 @@
 # WhatsApp-Hack in Termux 
 
-pip install tqdm
 pkg install python 
 apt install git
 pkg update && upgrade 
