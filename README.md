@@ -1,12 +1,12 @@
 # WhatsApp-Hack in Termux 
 
+pip install tqdm
 pkg install python 
 apt install git
 pkg update && upgrade 
 git clone https://github.com/HitmanWH/WhatsApp-Hack
 cd WhatsApp-Hack
 python WhatsApp-H.pyc
-
 
 
 # The password that the tool asks for is needed to send messages on your own behalf to you.
