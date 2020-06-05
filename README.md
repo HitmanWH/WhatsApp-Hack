@@ -1,9 +1,10 @@
 # WhatsApp-Hack in Termux 
 
-pkg install python 
-apt install git
 pkg update && upgrade 
-git clone https://github.com/HitmanWH/WhatsApp-Hack
+pkg install #python 
+pip install #colorama
+apt install #git
+git clone #https://github.com/HitmanWH/WhatsApp-Hack
 cd WhatsApp-Hack
 python WhatsApp-H.pyc
 
